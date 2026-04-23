@@ -1,0 +1,3 @@
+D:/Prj/Clion_prj/FOC/Bootloader/build/Debug/CMakeFiles/FOC_Bootloader.dir
+D:/Prj/Clion_prj/FOC/Bootloader/build/Debug/CMakeFiles/edit_cache.dir
+D:/Prj/Clion_prj/FOC/Bootloader/build/Debug/CMakeFiles/rebuild_cache.dir

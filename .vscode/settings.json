@@ -1,0 +1,33 @@
+{
+    "cortex-debug.openocdPath": "D:/Toolchains/OpenOCD-20250710-0.12.0/bin/openocd.exe",
+    "cortex-debug.armToolchainPath": "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin",
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.useCMakePresets": "never",
+    "cmake.generator": "Ninja",
+    "cmake.buildDirectory": "${workspaceFolder}/build/${buildType}",
+    "cmake.configureOnOpen": false,
+    "cmake.configureSettings": {
+        "CMAKE_BUILD_TYPE": "Debug",
+        "CMAKE_MAKE_PROGRAM": "D:/Toolchains/ninja-win/ninja.exe",
+        "CMAKE_SYSTEM_NAME": "Generic",
+        "CMAKE_SYSTEM_PROCESSOR": "arm",
+        "CMAKE_TRY_COMPILE_TARGET_TYPE": "STATIC_LIBRARY",
+        "CMAKE_C_COMPILER": "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc.exe",
+        "CMAKE_CXX_COMPILER": "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-g++.exe",
+        "CMAKE_ASM_COMPILER": "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc.exe",
+
+        "CMAKE_C_FLAGS": "-mcpu=cortex-m3 -mthumb -Os -ffunction-sections -fdata-sections",
+        "CMAKE_CXX_FLAGS": "-mcpu=cortex-m3 -mthumb -Os -ffunction-sections -fdata-sections",
+        "CMAKE_ASM_FLAGS": "-mcpu=cortex-m3 -mthumb",
+        "CMAKE_EXE_LINKER_FLAGS": "-mcpu=cortex-m3 -mthumb -T ${workspaceFolder}/STM32F103XX_FLASH.ld --specs=nano.specs --specs=nosys.specs -Wl,--gc-sections -Wl,--print-memory-usage"
+    },
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}

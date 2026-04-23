@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Prj/Clion_prj/FOC/build/Debug/cmake_install.cmake",
+		"D:/Prj/Clion_prj/FOC/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

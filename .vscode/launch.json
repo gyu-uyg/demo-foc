@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "STM32 Debug",
+            "cwd": "${workspaceFolder}",
+            
+            // 1. 神仙宏：自动获取 CMake 最终生成的精灵文件路径，绝不报错
+            "executable": "${command:cmake.launchTargetPath}",
+            
+            "request": "launch",
+            "type": "cortex-debug",
+            "runToEntryPoint": "main",
+            "servertype": "openocd",
+            
+            // 2. 指向我们在根目录写好的那个 J-Link + CPUTAPID 补丁文件
+            "configFiles": [
+                "${workspaceFolder}/jlink.cfg"
+            ],
+
+            "gdbTarget": "127.0.0.1:3333",
+            
+            // 3. （强烈推荐）让你能在 VS Code 里像 CLion 一样查看所有硬件寄存器
+            // 前提是你把 STM32F103xx.svd 文件放在了项目根目录
+            "svdFile": "${workspaceFolder}/STM32F103xx.svd",
+            
+            "searchDir": [], 
+            "showDevDebugOutput": "raw"
+        }
+    ]
+}
