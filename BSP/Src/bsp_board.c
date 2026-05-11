@@ -29,5 +29,5 @@ float BSP_Board_ReadTemperatureC(void)
 
 float BSP_Board_ReadBusVoltageV(void)
 {
-    return 24.0f;
+    return 12.0f;
 }

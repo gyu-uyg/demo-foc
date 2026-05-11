@@ -10,7 +10,7 @@
 					[
 						1
 					],
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.22"
@@ -24,7 +24,7 @@
 				},
 				{
 					"build" : "cmake/stm32cubemx",
-					"jsonFile" : "directory-cmake.stm32cubemx-Debug-a874d3cc84b5982fda2e.json",
+					"jsonFile" : "directory-cmake.stm32cubemx-Debug-4b19649788072bcc790a.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.22"
@@ -62,21 +62,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "FOC::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-FOC-Debug-6f514bdcf60b29a8be2d.json",
+					"jsonFile" : "target-FOC-Debug-984d9782ca00340bdd18.json",
 					"name" : "FOC",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "STM32_Drivers::@768a070a0fe75716b479",
-					"jsonFile" : "target-STM32_Drivers-Debug-57d53e03d095b79a7e3e.json",
+					"jsonFile" : "target-STM32_Drivers-Debug-ed1229f77eb81395ecb5.json",
 					"name" : "STM32_Drivers",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "USB_Device_Library::@768a070a0fe75716b479",
-					"jsonFile" : "target-USB_Device_Library-Debug-e86dfd98f6db1aa4c0e4.json",
+					"jsonFile" : "target-USB_Device_Library-Debug-3867af0faaf8270aa04b.json",
 					"name" : "USB_Device_Library",
 					"projectIndex" : 0
 				}
@@ -86,8 +86,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Prj/Clion_prj/FOC/build/Debug",
-		"source" : "D:/Prj/Clion_prj/FOC"
+		"build" : "/Users/y/G/Prj/Vscode/demo-foc/build/Debug",
+		"source" : "/Users/y/G/Prj/Vscode/demo-foc"
 	},
 	"version" : 
 	{

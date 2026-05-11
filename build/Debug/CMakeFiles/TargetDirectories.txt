@@ -1,7 +1,7 @@
-D:/Prj/Clion_prj/FOC/build/Debug/CMakeFiles/FOC.dir
-D:/Prj/Clion_prj/FOC/build/Debug/CMakeFiles/edit_cache.dir
-D:/Prj/Clion_prj/FOC/build/Debug/CMakeFiles/rebuild_cache.dir
-D:/Prj/Clion_prj/FOC/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
-D:/Prj/Clion_prj/FOC/build/Debug/cmake/stm32cubemx/CMakeFiles/USB_Device_Library.dir
-D:/Prj/Clion_prj/FOC/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-D:/Prj/Clion_prj/FOC/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
+/Users/y/G/Prj/Vscode/demo-foc/build/Debug/CMakeFiles/FOC.dir
+/Users/y/G/Prj/Vscode/demo-foc/build/Debug/CMakeFiles/edit_cache.dir
+/Users/y/G/Prj/Vscode/demo-foc/build/Debug/CMakeFiles/rebuild_cache.dir
+/Users/y/G/Prj/Vscode/demo-foc/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/Users/y/G/Prj/Vscode/demo-foc/build/Debug/cmake/stm32cubemx/CMakeFiles/USB_Device_Library.dir
+/Users/y/G/Prj/Vscode/demo-foc/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/Users/y/G/Prj/Vscode/demo-foc/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

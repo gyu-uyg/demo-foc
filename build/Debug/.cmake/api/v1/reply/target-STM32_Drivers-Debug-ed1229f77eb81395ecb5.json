@@ -137,39 +137,39 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "D:/Prj/Clion_prj/FOC/cmake/stm32cubemx/../../Core/Inc"
+					"path" : "/Users/y/G/Prj/Vscode/demo-foc/cmake/stm32cubemx/../../Core/Inc"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/Prj/Clion_prj/FOC/cmake/stm32cubemx/../../USB_DEVICE/App"
+					"path" : "/Users/y/G/Prj/Vscode/demo-foc/cmake/stm32cubemx/../../USB_DEVICE/App"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/Prj/Clion_prj/FOC/cmake/stm32cubemx/../../USB_DEVICE/Target"
+					"path" : "/Users/y/G/Prj/Vscode/demo-foc/cmake/stm32cubemx/../../USB_DEVICE/Target"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/Prj/Clion_prj/FOC/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "/Users/y/G/Prj/Vscode/demo-foc/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/Prj/Clion_prj/FOC/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "/Users/y/G/Prj/Vscode/demo-foc/cmake/stm32cubemx/../../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/Prj/Clion_prj/FOC/cmake/stm32cubemx/../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc"
+					"path" : "/Users/y/G/Prj/Vscode/demo-foc/cmake/stm32cubemx/../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/Prj/Clion_prj/FOC/cmake/stm32cubemx/../../Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Inc"
+					"path" : "/Users/y/G/Prj/Vscode/demo-foc/cmake/stm32cubemx/../../Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Inc"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/Prj/Clion_prj/FOC/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "/Users/y/G/Prj/Vscode/demo-foc/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "D:/Prj/Clion_prj/FOC/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
+					"path" : "/Users/y/G/Prj/Vscode/demo-foc/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",

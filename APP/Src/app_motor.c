@@ -9,7 +9,7 @@ void AppMotor_Init(void)
     (void)memset(&g_motor_state, 0, sizeof(g_motor_state));
     g_motor_state.mode = MOTOR_MODE_STANDBY;
     g_motor_state.telemetry.board_temperature_c = 25.0f;
-    g_motor_state.telemetry.bus_voltage_v = 24.0f;
+    g_motor_state.telemetry.bus_voltage_v = 12.0f;
 }
 
 MotorControlState *AppMotor_GetState(void)

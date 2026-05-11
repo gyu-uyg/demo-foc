@@ -15,7 +15,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-addr2line.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-addr2line"
 		},
 		{
 			"name" : "CMAKE_AR",
@@ -31,7 +31,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-ar.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-ar"
 		},
 		{
 			"name" : "CMAKE_ASM_COMPILER",
@@ -43,11 +43,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "ASM compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "STRING",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-gcc"
 		},
 		{
 			"name" : "CMAKE_ASM_COMPILER_AR",
@@ -63,7 +63,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc-ar.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-gcc-ar"
 		},
 		{
 			"name" : "CMAKE_ASM_COMPILER_RANLIB",
@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib"
 		},
 		{
 			"name" : "CMAKE_ASM_COMPILER_WORKS",
@@ -195,7 +195,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Prj/Clion_prj/FOC/build/Debug"
+			"value" : "/Users/y/G/Prj/Vscode/demo-foc/build/Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -219,7 +219,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "1"
+			"value" : "0"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -231,7 +231,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "0"
+			"value" : "2"
 		},
 		{
 			"name" : "CMAKE_COMMAND",
@@ -243,7 +243,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Toolchains/cmake-4.1.0-windows-x86_64/bin/cmake.exe"
+			"value" : "/opt/homebrew/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -255,7 +255,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Toolchains/cmake-4.1.0-windows-x86_64/bin/cpack.exe"
+			"value" : "/opt/homebrew/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -267,7 +267,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Toolchains/cmake-4.1.0-windows-x86_64/bin/ctest.exe"
+			"value" : "/opt/homebrew/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -279,11 +279,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "STRING",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-g++.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-g++"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -299,7 +299,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc-ar.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-gcc-ar"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_RANLIB",
@@ -315,7 +315,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -407,11 +407,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "STRING",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-gcc"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -427,7 +427,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc-ar.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-gcc-ar"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_RANLIB",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -551,7 +551,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Toolchains/cmake-4.1.0-windows-x86_64/bin/cmake-gui.exe"
+			"value" : "/opt/homebrew/bin/ccmake"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -579,7 +579,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "-mcpu=cortex-m3 -mthumb -T d:/Prj/Clion_prj/FOC/STM32F103XX_FLASH.ld --specs=nano.specs --specs=nosys.specs -Wl,--gc-sections -Wl,--print-memory-usage"
+			"value" : "-mcpu=cortex-m3 -mthumb -T /Users/y/G/Prj/Vscode/demo-foc/STM32F103XX_FLASH.ld --specs=nano.specs --specs=nosys.specs -Wl,--gc-sections -Wl,--print-memory-usage"
 		},
 		{
 			"name" : "CMAKE_EXE_LINKER_FLAGS_DEBUG",
@@ -695,7 +695,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Prj/Clion_prj/FOC/build/Debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/y/G/Prj/Vscode/demo-foc/build/Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -755,7 +755,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Prj/Clion_prj/FOC"
+			"value" : "/Users/y/G/Prj/Vscode/demo-foc"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -767,7 +767,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/FOC"
+			"value" : "/usr/local"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -783,7 +783,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-ld.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-ld"
 		},
 		{
 			"name" : "CMAKE_LIST_FILE_NAME",
@@ -807,7 +807,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "D:/Toolchains/ninja-win/ninja.exe"
+			"value" : "/opt/homebrew/bin/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -903,7 +903,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-nm.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-nm"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -931,7 +931,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-objcopy.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-objcopy"
 		},
 		{
 			"name" : "CMAKE_OBJDUMP",
@@ -947,7 +947,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-objdump.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-objdump"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -960,18 +960,6 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "1"
-		},
-		{
-			"name" : "CMAKE_PROJECT_COMPAT_VERSION",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : ""
 		},
 		{
 			"name" : "CMAKE_PROJECT_DESCRIPTION",
@@ -1010,66 +998,6 @@
 			"value" : "FOC"
 		},
 		{
-			"name" : "CMAKE_PROJECT_VERSION",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : ""
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_MAJOR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : ""
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_MINOR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : ""
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_PATCH",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : ""
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_TWEAK",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : ""
-		},
-		{
 			"name" : "CMAKE_RANLIB",
 			"properties" : 
 			[
@@ -1083,7 +1011,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-ranlib.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-ranlib"
 		},
 		{
 			"name" : "CMAKE_READELF",
@@ -1099,7 +1027,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-readelf.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-readelf"
 		},
 		{
 			"name" : "CMAKE_ROOT",
@@ -1111,7 +1039,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Toolchains/cmake-4.1.0-windows-x86_64/share/cmake-4.1"
+			"value" : "/opt/homebrew/share/cmake"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1235,7 +1163,7 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "Flags used by the archiver during the creation of static libraries during all build types."
+					"value" : "Flags used by the linker during the creation of static libraries during all build types."
 				}
 			],
 			"type" : "STRING",
@@ -1251,7 +1179,7 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "Flags used by the archiver during the creation of static libraries during DEBUG builds."
+					"value" : "Flags used by the linker during the creation of static libraries during DEBUG builds."
 				}
 			],
 			"type" : "STRING",
@@ -1267,7 +1195,7 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "Flags used by the archiver during the creation of static libraries during MINSIZEREL builds."
+					"value" : "Flags used by the linker during the creation of static libraries during MINSIZEREL builds."
 				}
 			],
 			"type" : "STRING",
@@ -1283,7 +1211,7 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "Flags used by the archiver during the creation of static libraries during RELEASE builds."
+					"value" : "Flags used by the linker during the creation of static libraries during RELEASE builds."
 				}
 			],
 			"type" : "STRING",
@@ -1299,7 +1227,7 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "Flags used by the archiver during the creation of static libraries during RELWITHDEBINFO builds."
+					"value" : "Flags used by the linker during the creation of static libraries during RELWITHDEBINFO builds."
 				}
 			],
 			"type" : "STRING",
@@ -1319,7 +1247,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-strip.exe"
+			"value" : "/opt/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi/bin/arm-none-eabi-strip"
 		},
 		{
 			"name" : "CMAKE_SYSTEM_NAME",
@@ -1374,6 +1302,18 @@
 			"value" : "STATIC_LIBRARY"
 		},
 		{
+			"name" : "CMAKE_UNAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "uname command"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/bin/uname"
+		},
+		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
 			"properties" : 
 			[
@@ -1399,7 +1339,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Prj/Clion_prj/FOC/build/Debug"
+			"value" : "/Users/y/G/Prj/Vscode/demo-foc/build/Debug"
 		},
 		{
 			"name" : "FOC_IS_TOP_LEVEL",
@@ -1423,7 +1363,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Prj/Clion_prj/FOC"
+			"value" : "/Users/y/G/Prj/Vscode/demo-foc"
 		},
 		{
 			"name" : "OBJCOPY",
@@ -1435,7 +1375,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/Toolchains/arm-gnu-toolchain-15.2.rel1-mingw-w64-i686-arm-none-eabi/bin/arm-none-eabi-objcopy.exe"
+			"value" : "/opt/homebrew/bin/arm-none-eabi-objcopy"
 		}
 	],
 	"kind" : "cache",
